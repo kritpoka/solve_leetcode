@@ -2,6 +2,10 @@
 
 This repository contains my solutions to various LeetCode problems, implemented in C++.
 
+## 👤 LeetCode Profile
+
+**LeetCode**: [kritpoka](https://leetcode.com/<your-username>/)
+
 ## Tech Stack
 
 - **Language**: C++
